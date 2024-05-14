@@ -27,3 +27,9 @@ Explore the live demo of Bankist: [Bankist Demo](https://66439285b7c2d7058ad72f0
 - CSS3 (including Flexbox and CSS Grid)
 - JavaScript (ES6+)
 
+- ## Credits
+
+This game was developed as part of a coding challenge or learning project by the developer.
+
+- Developer: Jonas Schmedtmann
+
