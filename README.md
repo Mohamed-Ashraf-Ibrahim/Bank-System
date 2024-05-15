@@ -21,6 +21,12 @@ Explore the live demo of Bankist: [Bankist Demo](https://66439285b7c2d7058ad72f0
   
 - **Contact Support:** Reach out to customer support through the integrated contact form.
 
+## Logging In with PIN Code (Example: 1111)
+
+
+-When prompted to log in, enter the PIN code '1111' and user enter 'js'
+
+
 ## Technologies Used
 
 - HTML5
